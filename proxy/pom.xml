@@ -8,7 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <parent>
-        <groupId>com.github.mthizo247</groupId>
+        <groupId>com.github.anchnet</groupId>
         <artifactId>zuul-websocket-support-demo</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
